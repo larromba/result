@@ -1,6 +1,6 @@
 import Foundation
 
-extension Result {
+public extension Result {
     var isSuccess: Bool {
         switch self {
         case .success: return true
