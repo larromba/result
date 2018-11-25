@@ -1,5 +1,5 @@
-import XCTest
 @testable import Result
+import XCTest
 
 final class ResultExtensionsTests: XCTestCase {
     private enum MockError: Error {
