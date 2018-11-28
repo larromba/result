@@ -9,7 +9,7 @@ A [result type](https://www.swiftbysundell.com/posts/the-power-of-result-types-i
 
 ## Installation
 
-### Carthage
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 ```
 // Cartfile
